@@ -72,6 +72,9 @@ p{
     margin-top: 5%;
     margin-bottom: 10%;
 }
+.spacing-container {
+	visibility: hidden;
+}
 @media  (max-width:2560px) {
     .video-container {
         overflow: hidden;
